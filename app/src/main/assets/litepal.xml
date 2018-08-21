@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<litepal>
+    <dbname value="ding_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.dingweather.android.db.Province"/>
+        <mapping class="com.dingweather.android.db.City"/>
+        <mapping class="com.dingweather.android.db.County"/>
+    </list>
+</litepal>
